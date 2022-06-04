@@ -16,19 +16,19 @@ export const Wrapper = styled.div`
   }
 
   button {
-    background-color: #225ed8;
+    background-color: DeepPink;
     padding: 8px 16px;
     margin: 0 16px;
     border-radius: 8px;
 
     &:hover {
-      background-color: #2c5282;
+      background-color: purple;
       box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
     }
 
     span {
       font-weight: bold;
-      color: #ffff;
+      color: pink;
     }
   }
 `;
